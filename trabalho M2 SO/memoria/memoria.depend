@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1698503339 source:c:\users\mateu\documents\trabalho m2 so\memoria\main.cpp
+	<iostream>
+	<bitset>
+	<math.h>
+
